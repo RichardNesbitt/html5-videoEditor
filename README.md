@@ -1,5 +1,9 @@
 html5-videoEditor
 =================
+***forked on 7-18-17***
+***I'd like to fully build this out***
+
+
 
 About
 -----
